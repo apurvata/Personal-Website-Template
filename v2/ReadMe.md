@@ -1,2 +1,1 @@
-# Updated v2
-More panels and features. Coming soon!
+# Updated v2 - No template or library
