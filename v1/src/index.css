@@ -1,1 +1,41 @@
+# Add your own css (mine`s bad) 
 
+*{
+  font-family: "", sans-serif;
+  scrollbar-width: thin;
+  scrollbar-color: #;
+}
+
+p{
+  color: #;
+}
+
+h1{
+  font-family: "", sans-serif;
+  color: #;
+}
+
+h2{
+  font-family: "", sans-serif;
+  color: #;
+}
+
+h3{
+  font-family: "", sans-serif;
+  color: #;
+}
+
+:root{
+  background-color: #;
+  scrollbar-width: thin;
+  scrollbar-color: #;
+  background: linear-gradient(deg, #, #, #);
+  background-attachment: fixed;
+}
+
+.headerImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
