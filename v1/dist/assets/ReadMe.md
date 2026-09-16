@@ -1,1 +1,1 @@
-# Place all images here.
+# Images
